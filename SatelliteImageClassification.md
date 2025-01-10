@@ -11,11 +11,11 @@
 
 ![alt text](media/satimageclassify/image.png)
 
-# Display the first few images in training Dataset
+## Run the cell to display the first few images in training Dataset
 
 ![alt text](media/satimageclassify/image-2.png)
 
-# Display the first few images in validation Dataset
+## Run the cell to display the first few images in validation Dataset
 
 ![alt text](media/satimageclassify/image-3.png)
 
@@ -23,11 +23,11 @@
 
 ![alt text](media/satimageclassify/image-5.png)
 
-# Name those classes
+## Run the cell to name those classes
 
 ![alt text](media/satimageclassify/image-6.png)
 
-# Define the CNN with layers needed for Classification training
+## Define the CNN with layers needed for Classification training
 
 ![alt text](media/satimageclassify/image-7.png)
 

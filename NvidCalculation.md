@@ -2,6 +2,10 @@
 
 # Notebook - Nvid
 
+- Open this repo to google colab, we will working in google colab in this workshop
+
+- Select nvidCalculation.ipynb and  start working
+
 - Add the code from the given reference and run the cell.
 
 - If the code already exists, please run the code and move to the next cell.

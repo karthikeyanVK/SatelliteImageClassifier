@@ -15,7 +15,7 @@
 ![alt text](media/nvid/image-7.png)
 
 
-## Open the files for band fetch
+## Open the files for band fetch, media/Landsat8 folder, upload to google drive in 'Landsat8' folder
 
 ![alt text](media/nvid/image1.png)
 

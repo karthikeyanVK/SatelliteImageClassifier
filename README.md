@@ -14,11 +14,11 @@ Prerequisites for the workshop
 
 ## Install rasterio which is used for NVID Calculation
 
-![alt text](nvid/image.png)
+![alt text](media/nvid/image.png)
 
 ## Run cell 2, 3, 4
 
-![alt text](nvid/image-7.png)
+![alt text](media/nvid/image-7.png)
 
 
 ## Open the files for band fetch

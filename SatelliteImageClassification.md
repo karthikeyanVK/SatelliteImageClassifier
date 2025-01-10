@@ -45,6 +45,11 @@
 
 ![alt text](media/satimageclassify/image-11.png)
 
+
+## Run the below cells to find the prediction loss
+
+![alt text](media/satimageclassify/image-13.png)
+
 ## Predict one Image from the validation Dataset
 
 ![alt text](media/satimageclassify/image-12.png)

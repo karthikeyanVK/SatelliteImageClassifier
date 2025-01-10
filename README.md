@@ -2,7 +2,7 @@
 
 Prerequisites for the workshop
 
-- Clone this repo to google colab, we will working in google colab in this workshop
+- Open this repo in google colab, we will  be working in google colab for this workshop
 
 - Select copyFiles2YourDrive.ipynb and run to prepare the dataset.
 

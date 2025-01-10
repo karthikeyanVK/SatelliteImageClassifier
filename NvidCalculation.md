@@ -2,7 +2,7 @@
 
 # Notebook - Nvid
 
-- Open this repo to google colab, we will working in google colab for this workshop
+- Open this repo in google colab
 
 - Select nvidCalculation.ipynb and  start working
 

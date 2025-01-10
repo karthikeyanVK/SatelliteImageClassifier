@@ -2,7 +2,7 @@
 
 # Notebook - Nvid
 
-- Open this repo to google colab, we will working in google colab in this workshop
+- Open this repo to google colab, we will working in google colab for this workshop
 
 - Select nvidCalculation.ipynb and  start working
 
@@ -14,7 +14,7 @@
 
 ![alt text](media/nvid/image.png)
 
-## Run cell 2, 3, 4
+## Run cell 2, 3
 
 ![alt text](media/nvid/image-7.png)
 

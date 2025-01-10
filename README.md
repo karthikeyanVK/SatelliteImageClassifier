@@ -4,4 +4,4 @@ Prerequisites for the workshop
 
 - Clone this repo to google colab, we will working in google colab in this workshop
 
-- Goto SatelliteImageClassification.md to start the first Exercise
+- Goto nvidCalculation.md to start the first Exercise

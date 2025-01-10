@@ -1,6 +1,6 @@
 # Satelite Data Image Classification - Deep Learning
 
-- Open and  start working on the satelliteImageClassification.ipynb to identify Cloud, Desert, Water, GreenArea
+- In Colab, open this repo and start working on the satelliteImageClassification.ipynb to identify Cloud, Desert, Water, GreenArea
 
 ## Run the import and drive import cell
 

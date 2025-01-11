@@ -35,10 +35,13 @@
 ## Visualize the multiple band 
 
 ![alt text](media/nvid/image-3.png)
- 
+
+## Change the datatype of the Data
+![alt text](media/nvid/image-5.png)
+
 ## Calculate the ndvi using bands fetched from tif
 
-![alt text](media/nvid/image-5.png)
+![alt text](image.png)
 
 ## Save the tiff file with crs data
 
@@ -47,4 +50,4 @@
 
 ## Display saved the tiff file
 
-![alt text](media/nvid/image-9.png)
+![alt text](media/nvid/image-5.png)edia/nvid/image-9.png)
